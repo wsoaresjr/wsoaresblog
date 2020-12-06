@@ -1,4 +1,4 @@
-baseURL = "https://wsoares.netlify.app/"
+baseURL = "https://wsoares.netlify.app"
 title   = "Hello Friend NG"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -162,4 +162,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "posts/"
+    url        = "/posts/"
