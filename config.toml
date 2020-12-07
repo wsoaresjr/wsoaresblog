@@ -1,5 +1,5 @@
-baseURL = "https://wsoares.netlify.app"
-title   = "Hello Friend NG"
+baseURL = "www.wsoares.netlify.app"
+title   = "Walter Soares"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Walter Soares"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -55,11 +55,11 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Blog pessoal de Walter Soares"
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Cientista de Dados | Consultor"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
@@ -162,4 +162,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "/posts/"
+    url        = "/posts"
