@@ -12,8 +12,7 @@ primeiro post
 
 
 ---
-enableSharingButtons = true
+enableSharingButtons: true
 {{- if .Site.Params.EnableSharingButtons }}
 {{ partial "sharing-buttons.html" . }}
-{{- end }}
 ---
