@@ -1,4 +1,4 @@
-baseURL = "www.wsoares.netlify.app"
+baseURL = "wsoares.netlify.app"
 title   = "Walter Soares"
 languageCode = "en-us"
 theme = "hello-friend-ng"
