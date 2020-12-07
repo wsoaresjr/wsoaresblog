@@ -1,4 +1,4 @@
-baseURL = "wsoares.netlify.app"
+baseURL = "https://wsoares.netlify.app"
 title   = "Walter Soares"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -96,7 +96,7 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   # footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
-  # footerRight = "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+  # footerRight = "Made with &#10084; by <a href=\"https://github.com/wsoaresjr\">Walter Soares</a>"
 
   # Colors for favicons
   #
@@ -162,4 +162,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "/posts"
+    url        = "posts/"
