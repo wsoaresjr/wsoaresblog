@@ -7,3 +7,12 @@ draft: false
 primeiro post
 
 
+
+
+
+
+---
+{{- if .Site.Params.EnableSharingButtons }}
+{{ partial "sharing-buttons.html" . }}
+{{- end }}
+---
