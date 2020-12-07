@@ -11,3 +11,9 @@ modelo de escrita
 Blá blá blá
 
 
+
+
+---
+{{ partial "sharing-buttons.html" .}}
+
+
