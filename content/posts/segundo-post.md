@@ -11,5 +11,4 @@ tags: [#true]
 
 Essa é uma página de teste para saber como os textos aparecem na postagem do blog.
 
-#Teste_de_postagem
-#DataScience
+
