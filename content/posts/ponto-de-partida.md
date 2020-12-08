@@ -1,6 +1,6 @@
 ---
 title: "Ponto De Partida"
-name: {{ name }}
+name = "walter"
 date: 2020-12-08T02:02:01-03:00
 draft: false
 toc: false
