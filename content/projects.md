@@ -4,7 +4,10 @@
 Aqui, postarei meus projetos.
 
 
-![< Em Construção >](2qqcdAY.gif)
+
+
+
+![< Em Construção >](content/2qqcdAY.gif)
 
 
 < Em construção >
