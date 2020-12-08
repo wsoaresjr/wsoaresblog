@@ -1,6 +1,7 @@
 baseURL = "https://wsoares.netlify.app/"
 title   = "Walter Soares"
-languageCode = "en-us"
+#languageCode = "en-us"
+languageCode = "pt-br"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
