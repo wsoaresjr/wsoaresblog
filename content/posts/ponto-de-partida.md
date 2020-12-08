@@ -1,6 +1,6 @@
 ---
 title: "Ponto De Partida"
-name: "Walter Soares"
+name: Walter Soares
 date: 2020-12-08T02:02:01-03:00
 draft: false
 toc: false
@@ -12,4 +12,4 @@ categories:
   - lancamento    
 ---
 
-Esse  é o lançamento do blog.
+Esse  é o lançamento do blog. 2
