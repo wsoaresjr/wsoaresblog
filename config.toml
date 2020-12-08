@@ -145,6 +145,10 @@ disableHugoGeneratorInject = false
     name = "kaggle"
     url  = "https://www.kaggle.com/waltersoares"
 
+  [[params.social]]
+    name = "medium"
+    url  = "https://medium.com/@wsoaresjr"
+
 [languages]
   [languages.en]
     subtitle  = "Blog Pessoal"
