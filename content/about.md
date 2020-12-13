@@ -1,4 +1,4 @@
-# Sobre   (Página em Desenvolvimento)
+# Sobre   (em desenvolvimento)
 
 
 
