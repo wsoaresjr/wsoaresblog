@@ -1,6 +1,6 @@
 # Sobre   (em desenvolvimento)
 
-
+Draft: True
 
 ---
 
@@ -26,7 +26,7 @@ Para maiores detalhes, acesse meu <a href="http://lattes.cnpq.br/935635545860344
    * SQL;
    * NoSQL;
    
-   
+
    
 
     
