@@ -10,7 +10,7 @@ Atuo como Analista de Instrumentos de Avaliação (Equipe de COnstrução de Ins
 
 Sou mestrando do Progrma de Mestrado Profissional em Educação Matemática, pela Universidade Federal de Juiz de Fora (UFJF), em Juiz de Fora/MG.
 
-Sou graduando do curso de Gradução Tecnológica em Ciências de Dados, pela Universidade Cruzeiro do Sul.
+Sou graduando do curso de Gradução Tecnológica em Ciências de Dados, pela Universidade Cruzeiro do Sul. 
 
 Para maiores detalhes, acesse meu <a href="http://lattes.cnpq.br/9356355458603440" target="_blank">Curriculo Lattes</a>.
 

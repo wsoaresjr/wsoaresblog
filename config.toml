@@ -139,7 +139,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/walter-soares-970790133/"
+    url  = "https://www.linkedin.com/in/walter-soares"
 
   [[params.social]]
     name = "kaggle"
