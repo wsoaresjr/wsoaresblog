@@ -25,6 +25,7 @@ Para maiores detalhes, acesse meu <a href="http://lattes.cnpq.br/935635545860344
    * R;
    * SQL / NoSQL;
    * JavaScript.
+   * 
    
 
    
