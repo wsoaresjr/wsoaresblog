@@ -149,6 +149,10 @@ disableHugoGeneratorInject = false
     name = "medium"
     url  = "https://medium.com/@wsoaresjr"
 
+  [[params.social]]
+    name = "anchor"
+    url  = "https://anchor.fm/wsoares"
+
 [languages]
   [languages.en]
     subtitle  = "Blog Pessoal"

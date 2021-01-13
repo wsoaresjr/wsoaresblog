@@ -8,9 +8,9 @@ Formado em Licenciatura Matemática, com experiência de pouco mais de vinte ano
 
 Atuo como Analista de Instrumentos de Avaliação (Equipe de COnstrução de Instrumentos), na Fundação Centro de Políticas Públicas e Avaliação da Educação (Fundação CAEd).
 
-Sou mestrando do Progrma de Mestrado Profissional em Educação Matemática, pela Universidade Federal de Juiz de Fora (UFJF), em Juiz de Fora/MG.
+Sou mestrando do Progrma de Mestrado Profissional em Educação Matemática, pela Universidade Federal de Juiz de Fora (UFJF), em Juiz de Fora/MG. Cocnlusão prevista para o ano de 2021.
 
-Sou graduando do curso de Gradução Tecnológica em Ciências de Dados, pela Universidade Cruzeiro do Sul. 
+Sou graduando do curso de Gradução Tecnológica em Ciências de Dados, pela Universidade Cruzeiro do Sul. Cocnlusão prevista para o ano de 2021.
 
 Para maiores detalhes, acesse meu <a href="http://lattes.cnpq.br/9356355458603440" target="_blank">Curriculo Lattes</a>.
 
@@ -23,8 +23,8 @@ Para maiores detalhes, acesse meu <a href="http://lattes.cnpq.br/935635545860344
 
    * Python;
    * R;
-   * SQL;
-   * NoSQL;
+   * SQL / NoSQL;
+   * JavaScript.
    
 
    
