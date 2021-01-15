@@ -11,7 +11,7 @@ tags:
 ---
 ## Introdução
 
-![](cientista_dados.jpg)
+![](https://github.com/wsoaresjr/wsoaresblog/blob/master/content/posts/cientista_dados.jpg)
 
 Muitas são as tarefas a serem desempenhadas por um Cientista de Dados, chegando a ser difícil classificar qual delas é a mais importante. Por conta disso, sinto-me confortável, então, para abordar qualquer uma dessas tarefas. Assim, hoje, darei início ao primeiro de quatro textos voltados para a Análise de Dados. 
 
@@ -32,7 +32,7 @@ Dessa forma, por meio dos dados históricos, é possível conhecer o momento pre
 
 Para isso, o cientista de dados pode valer-se de três etapas, as quais irei considerar como: (I) Organização dos dados; (II) Visualização dos dados e, (III) Cálculo de Medidas de Tendência Central, Variação e Associação.
 
-![Etapas da Análise Descritiva](etapas.png)
+![](https://github.com/wsoaresjr/wsoaresblog/blob/master/content/posts/etapas.png)
 
 
 ## Etapa I: Organização dos Dados
@@ -58,11 +58,11 @@ Basicamente, são utilizados os conceitos da Estatística Descritiva. Uma vez qu
 
 **- Média das classes:** correspondem aos pontos médios dos intervalos que determinam cada uma das classes. Ainda, utilizando o exemplo proposto, é possível determinar a média da classe (3-7), a partir do cálculo.
 
-![](equacao1.png)
+![](https://github.com/wsoaresjr/wsoaresblog/blob/master/content/posts/equacao1.png)
 
 **- Amplitude de classes:** representada por hi, é o resultado da subtração entre os limites (superior e inferior) de uma classe. Tomando exemplo, a amplitude da classe é obtida pelo cálculo.
 
-![](equacao2.png)
+![](https://github.com/wsoaresjr/wsoaresblog/blob/master/content/posts/equacao2.png)
 
 
 ## Etapa II: Visualização dos Dados
@@ -76,7 +76,7 @@ Essa etapa é caracterizada pela apresentação dos dados, normalmente, a partir
 
 **- Histograma:** é uma representação gráfica (de barras) da distribuição de frequências de um conjunto de dados quantitativos contínuos, seja por valores absolutos, por frequência relativa ou densidade.
 
-![](gráficos.png)
+![](https://github.com/wsoaresjr/wsoaresblog/blob/master/content/posts/gr%c3%a1ficos.png)
 
 É possível utilizar, ainda, diversos tipos de gráficos (de linha, boxplot, entre outros), conforme a necessidade da análise realizada. Na confecção dessas visualizações podem ser utilizadas inúmeras ferramentas, tais como as bibliotecas Matplotlib e Seaborn do Python; ggplot, no R, além do Tableau e Power BI. Todas essas, ainda, serão alvos de postagens por aqui.
 
