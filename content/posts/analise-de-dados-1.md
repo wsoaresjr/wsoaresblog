@@ -87,6 +87,9 @@ Nessa etapa, serão determinados os sumários estatísticos das variáveis numé
 Nas próximas postagens, darei prosseguimento nos demais tipos de análises de dados.
 
 
+Acesse a versão completa no <a href="https://wsoaresjr.medium.com/an%C3%A1lise-de-dados-parte-1-f83a548bec62" target="_blank">Medium</a>.
+
+
 
 
 
