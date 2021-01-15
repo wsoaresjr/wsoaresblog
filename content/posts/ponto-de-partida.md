@@ -1,7 +1,7 @@
 ---
 title: "Ponto de Partida"
 author: "Walter"
-date: 2021-01-15T02:02:01-03:00
+date: 2020-12-08T02:02:01-03:00
 draft: false
 toc: false
 images:
