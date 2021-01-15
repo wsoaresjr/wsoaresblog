@@ -1,7 +1,7 @@
 ---
 title: "Análise de Dados - Parte 1"
 date: 2021-01-15T00:32:27-03:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
