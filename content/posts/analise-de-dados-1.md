@@ -11,7 +11,7 @@ tags:
 ---
 ## Introdução
 
-![](https://github.com/wsoaresjr/wsoaresblog/blob/master/content/posts/cientista_dados.jpg)
+![](https://github.com/wsoaresjr/wsoaresblog/blob/master/themes/hello-friend-ng/images/cientista_dados.jpg)
 
 Muitas são as tarefas a serem desempenhadas por um Cientista de Dados, chegando a ser difícil classificar qual delas é a mais importante. Por conta disso, sinto-me confortável, então, para abordar qualquer uma dessas tarefas. Assim, hoje, darei início ao primeiro de quatro textos voltados para a Análise de Dados. 
 
