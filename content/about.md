@@ -1,6 +1,5 @@
-# Sobre   (em desenvolvimento)
+# Sobre 
 
-Draft: True
 
 ---
 
