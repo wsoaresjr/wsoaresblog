@@ -25,19 +25,12 @@ Ficarei grato de poder trocar muitas ideias por aqui. Havendo sugestões, críti
 Espero que, enquanto, estiver por aqui, eu possa concretizar todos os objetivos apresentados.
 Sigamos.
 
-Para maiores detalhes, acesse meu <a href="http://lattes.cnpq.br/9356355458603440" target="_blank">Curriculo Lattes</a>.
+Para maiores detalhes, acesse meu <a href="https://wsoaresjr.github.io/curriculo/curriculo_wsoares.html" target="_blank">Curriculo</a>.
 
 ---
 
 
-**Principais Habilidades Desenvolvidas:**
 
-<div style='page-break-after: always'></div>
-
-   * Python;
-   * R;
-   * SQL / NoSQL;
-   * JavaScript.
   
    
 
