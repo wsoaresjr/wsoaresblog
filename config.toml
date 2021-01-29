@@ -174,3 +174,7 @@ disableHugoGeneratorInject = false
     identifier = "projects"
     name       = "Projetos"
     url        = "projects/"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projetos"
+    url        = "https://wsoaresjr.github.io/curriculo/curriculo_wsoares.html"

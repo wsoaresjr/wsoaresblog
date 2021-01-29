@@ -5,7 +5,7 @@
 
 Formado em Licenciatura Matemática, com experiência de pouco mais de vinte anos de atuação em turmas dos Ensinos Fundamental e Médio, nas redes privada e pública (estaudal do Rio de Janeiro).
 
-Atuo como Analista de Instrumentos de Avaliação (Equipe de COnstrução de Instrumentos), na Fundação Centro de Políticas Públicas e Avaliação da Educação (Fundação CAEd).
+Atuo como Analista de Instrumentos de Avaliação (Equipe de Construção de Instrumentos), na Fundação Centro de Políticas Públicas e Avaliação da Educação (Fundação CAEd).
 
 Sou mestrando do Progrma de Mestrado Profissional em Educação Matemática, pela Universidade Federal de Juiz de Fora (UFJF), em Juiz de Fora/MG. Cocnlusão prevista para o ano de 2021.
 
