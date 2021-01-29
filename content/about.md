@@ -25,7 +25,7 @@ Ficarei grato de poder trocar muitas ideias por aqui. Havendo sugestões, críti
 Espero que, enquanto, estiver por aqui, eu possa concretizar todos os objetivos apresentados.
 Sigamos.
 
-Para maiores detalhes, acesse meu <a href="https://wsoaresjr.github.io/curriculo/curriculo_wsoares.html" target="_blank">Curriculo</a>.
+Para maiores detalhes, acesse meu <a href="https://wsoaresjr.github.io/curriculo/curriculo_wsoares.html" target="_blank">Curriculo</a>. 
 
 ---
 
