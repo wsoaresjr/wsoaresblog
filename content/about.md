@@ -23,7 +23,7 @@ Por, ainda, ser uma novidade, estou me organizando para manter uma regularidade 
 Ficarei grato de poder trocar muitas ideias por aqui. Havendo sugestões, críticas, enfim, fique a vontade. Parafraseando um professor que, referindo-se ao ensino de Matemática, sempre, cita Baldino ao dizer que *"Matemática a gente ensina ouvindo e aprende falando"*.
 
 Espero que, enquanto, estiver por aqui, eu possa concretizar todos os objetivos apresentados.
-Sigamos.
+Sigamos..
 
 Para maiores detalhes, acesse meu <a href="https://wsoaresjr.github.io/curriculo/curriculo_wsoares.html" target="_blank">Curriculo</a>. 
 
